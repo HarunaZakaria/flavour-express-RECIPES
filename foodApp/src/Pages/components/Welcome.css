@@ -1,0 +1,48 @@
+.home {
+    margin: 120px;
+    
+}
+.home h1 {
+    text-align: center;
+}
+.image-para {
+    display: flex;
+    padding: 15px;
+}
+.foo-avai h2 {
+    text-align: center;
+}
+.food{
+    display:block;
+    justify-content: space-around;
+    
+}
+.food-image{
+    padding-right: 40px;
+    width: 400px;
+    border: 5px solid rgb(11, 192, 11);
+    border-radius: 50%;
+}
+.image-para p {
+    font-size: 40px;
+    padding-left: 40px;
+    padding-top: 60px;
+    text-align: center;
+}
+@media screen and (max-width:769px) {
+    .home h1 {
+        margin-bottom: 35px;
+        font-size: 30px;
+        font-weight: 600;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .home {
+        margin: 60px;
+    }
+    .food-image {
+        width: 200px;
+    }
+    .image-para p {
+        font-size: 20px;
+    }
+}
