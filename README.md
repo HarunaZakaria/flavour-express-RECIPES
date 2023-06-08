@@ -17,3 +17,16 @@ Hubtel)
 4. Cloud Services:Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)
 5. Push Notifications:Apple Push Notification Service (APNs), OneSignal, and Pusher
 6. Social Media Integration:Facebook Login API, Google Sign-In API, and Twitter API.
+
+The architecture follows a client-server model, with the frontend built using React for a responsive and interactive user interface. The backend is developed using Node.js and Express.js to handle API requests and database operations. MongoDB is used as the database to store user profiles, recipes, and flavor information. Authentication is implemented using JWT for secure user authentication and authorization.
+
+Developments and Successes
+
+Throughout the project, our team achieved the following successes:
+Successfully designed and implemented a responsive and intuitive user interface using React.
+Integrated the Flavour Express API to fetch and display flavor data for users to browse and select.
+Implemented user authentication and authorization using JWT for secure access to user profiles and recipe creation.
+Created a database schema and implemented CRUD (Create, Read, Update, Delete) operations for user profiles and recipes.
+Conducted thorough testing and debugging to ensure a stable and functional application.
+Challenges and Areas for Improvement
+
