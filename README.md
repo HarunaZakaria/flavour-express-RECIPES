@@ -30,3 +30,13 @@ Created a database schema and implemented CRUD (Create, Read, Update, Delete) op
 Conducted thorough testing and debugging to ensure a stable and functional application.
 Challenges and Areas for Improvement
 
+***********************************************************************************************************
+
+***********************************************************************************************************
+
+While developing the Flavour Express Recipe project, we encountered a few challenges:
+
+Integrating the Flavour Express API required understanding its documentation and handling various data formats.
+Implementing secure user authentication and authorization required careful consideration of potential vulnerabilities.
+Managing complex database queries and ensuring efficient performance.
+
