@@ -1,9 +1,10 @@
-
+import Navbar from "./components/Navbar"
 
 export default function SigninPage() {
 
     return (
         <div>
+              <Navbar />
             <div className="home">
                 <div>
                     <h1>Welcome to Flavour Express</h1>
