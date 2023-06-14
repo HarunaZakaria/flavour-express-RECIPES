@@ -50,4 +50,11 @@ During the development process, our team learned valuable lessons:
 
 ***********************************************************************************************************
 
+Effective collaboration and communication are essential for a successful team project.
+
+Proper planning and clear task delegation lead to better organization and progress.
+Regular testing and debugging help identify and resolve issues early in the development cycle.
+
+***********************************************************************************************************
+
 
