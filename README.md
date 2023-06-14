@@ -57,4 +57,11 @@ Regular testing and debugging help identify and resolve issues early in the deve
 
 ***********************************************************************************************************
 
+Implementing additional features, such as recipe rating and commenting functionality.
+
+Enhancing the UI/UX design to create a more visually appealing and intuitive user interface.
+Conducting performance optimization to ensure fast loading times and responsive user experience.
+
+***********************************************************************************************************
+
 
