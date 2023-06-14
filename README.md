@@ -40,3 +40,14 @@ Integrating the Flavour Express API required understanding its documentation and
 Implementing secure user authentication and authorization required careful consideration of potential vulnerabilities.
 Managing complex database queries and ensuring efficient performance.
 
+Areas for improvement in the project include:
+
+Enhancing the search functionality to allow users to find recipes based on specific flavors or ingredients.
+Implementing social sharing features to enable users to share their favorite recipes on social media platforms.
+Improving the overall user experience by incorporating user feedback and conducting usability testing.
+Lessons Learned
+During the development process, our team learned valuable lessons:
+
+***********************************************************************************************************
+
+
