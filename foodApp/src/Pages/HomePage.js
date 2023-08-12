@@ -1,4 +1,5 @@
 import React from 'react'
+import Navbar from '../components/Navbar';
 import Foods from '../FoodsData'
 import Food from '../components/Food'
 
@@ -7,6 +8,7 @@ import Food from '../components/Food'
 function HomePage() {
   return (
     <div>
+        <Navbar />
         <div className='row'>
 
             {Foods.map(food =>{

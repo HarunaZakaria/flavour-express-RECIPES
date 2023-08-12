@@ -1,4 +1,4 @@
-import React from "react";
+
 import '../index.css';
 
 const Navbar = () => {
@@ -21,6 +21,21 @@ const Navbar = () => {
 
       <div className="collapse navbar-collapse" id="navbarNavDropdown">
         <ul className="navbar-nav ms-auto">
+          <li className="nav-item ">
+            <a className="nav-link" href="/Home">
+              Home 
+            </a>
+          </li>
+          <li className="nav-item ">
+            <a className="nav-link" href="/Reservation">
+             Reservations 
+            </a>
+          </li>
+          <li className="nav-item ">
+            <a className="nav-link" href="#">
+             Contact Us 
+            </a>
+          </li>
           <li className="nav-item ">
             <a className="nav-link" href="#">
               Login 
